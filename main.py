@@ -1,1 +1,2 @@
-# Test
+# First Class
+print("Hello World")
