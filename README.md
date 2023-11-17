@@ -8,6 +8,7 @@ This repository contains materials and code from a series of Python classes. The
 - [Class 4 (C4)](C4/)
 - [Class 5 (C5)](C5/)
 - [Class 6 (C6)](C6/)
+- [Class 7 (C7)](C7/)
 
 ## Description
 
